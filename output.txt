@@ -1,0 +1,12 @@
+Digite um comando: 
+create x: 1, y: 2, l: 2, h: 3
+Digite um comando: 
+create x: 1, y: 1, l: 5, h: 5
+Digite um comando: 
+create x: 9, y: 9, l: 5, h: 5
+Digite um comando: 
+moveleft x: 9, y: 9, p: 5
+Digite um comando: 
+moveright x: 1, y: 1, p: 2
+Digite um comando: 
+exiting
